@@ -1,6 +1,5 @@
 package pharmacie.entity;
 
-import io.micrometer.common.lang.NonNull;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
 import lombok.*;
